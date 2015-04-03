@@ -1,0 +1,7 @@
+References
+----------
+
+MST121 Books C & D (Probability and Statistics), The Open University
+MST224 Books 1 & 2 (Differential Equations and Linear Algebra), The Open University
+
+
